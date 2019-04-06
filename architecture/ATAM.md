@@ -6,7 +6,9 @@
   - [A Structure for Reasoning](#a-structure-for-reasoning)
 - [The Steps of ATAM](#the-steps-of-atam)
   4. [Identify Architectural Approaches](#identify-architectural-approaches)
+  6. [Analyze Architectural Approaches](#analyze-architectural-approaches)
   9. [Present Results](#present-results)
+
 ---
 
 ## Reference
@@ -50,9 +52,22 @@ Tradeoff point: a property that affects more than one attribute and is a sensiti
 ### A Structure for Reasoning
 - 아키텍처 평가의 목표는 reasoning을 명시적으로 하고 후대를 위해 기록하는 것
 - reasoning은 formal할 필요는 없으나 predictive하고 repeatable 해야함
+- [ABAS](ABAS.md)와 quality attribute characterizations은 resoning model을 만드는 기술기반을 제공
 
 ## The Steps of ATAM
 ### Identify Architectural Approaches
+
+### Analyze Architectural Approaches
+
+- 템플릿
+  - *Scenario*: **a scenario from the utility tree of from scenario brainstorming**
+  - *Attribute*: **performance, security, availability, etc.**
+  - *Environment*: **relevant assumptions about the environment in which the system resides**
+  - *Stimulus*: **a precise statement of the quality attribute stimulus (e.g., failure, threat, modification, …) embodied by the scenario**
+  - *Response*: **a precise statement of the quality attribute response (e.g., response time, measure of difficulty of modification)**
+  - *Architectural Decisions, Risk, Sensitivity, Tradeoff*: **list of architectural decisions affecting quality attribute response, risk #, sens. point #, tradeoff #**
+  - *Reasoning*: **qualitative and/or quantitative rationale for why the list of architectural decisions contribute to meeting the quality attribute response requirement**
+  - *Architecture diagram*: **diagram or diagrams of architectural views annotated with architectural information to support the above reasoning. These may be accompanied by explanatory text.**
 
 ### Present Results
 - ATAM으로 모은 정보들을 정리해서 stakeholder에게 발표하는 단계
