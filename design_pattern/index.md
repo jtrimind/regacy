@@ -13,3 +13,7 @@
 |            |                                         | [Proxy](proxy.md)             | [State](state.md)                                    |
 |            |                                         |                               | [Strategy](strategy.md)                              |
 |            |                                         |                               | [Visitor](visitor.md)                                |
+
+## Reference
+- [SourceMaking](https://sourcemaking.com/design_patterns)
+- [Wikipedia](https://en.wikipedia.org/wiki/Software_design_pattern)
