@@ -5,8 +5,14 @@
   - [Sensitivity and Tradeoff Points](#sensitivity-and-tradeoff-points)
   - [A Structure for Reasoning](#a-structure-for-reasoning)
 - [The Steps of ATAM](#the-steps-of-atam)
+  1. Present the ATAM
+  2. Present Business Drivers
+  3. Present Architecture
   4. [Identify Architectural Approaches](#identify-architectural-approaches)
+  5. Generate Quality Attribute Utility Tree
   6. [Analyze Architectural Approaches](#analyze-architectural-approaches)
+  7. Brainstorm and Prioritize Scenarios
+  8. Analyze Architecture Approaches
   9. [Present Results](#present-results)
 
 ---
