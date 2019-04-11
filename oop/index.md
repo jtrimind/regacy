@@ -5,6 +5,7 @@
 - [Dynamic Binding](#dynamic-binding)
 - [Encapsulation](#encapsulation)
 - [Polymorphism](polymorphism.md)
+- [Abstarct Class vs. Interface](#abstarct-class-vs.-interface)
 
 ### Object Oriented Programming vs. Procedural Programming
 
@@ -26,3 +27,10 @@
 ### Encapsulation
 - 객체의 일부 구성 요소를 직접적으로 접근하는 것을 제한한다.
 - 데이터와 메소드를 묶는다.
+
+### Abstarct Class vs. Interface
+- Abstract Class는 공통적인 기능을 하는 객체들의 추상화하기 위해 사용된다.
+- Interface는 객체가 공통적인 method를 가지고 있다는 것을 보장한다.
+
+#### Reference
+https://brunch.co.kr/@kd4/6
