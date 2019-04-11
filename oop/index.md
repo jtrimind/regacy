@@ -2,6 +2,7 @@
 
 ## Index
 - [Object Oriented Programming vs. Procedural Programming](#object-oriented-programming-vs.-procedural-programming)
+- [Dynamic Binding](#dynamic-binding)
 - [Encapsulation](#encapsulation)
 - [Polymorphism](polymorphism.md)
 
@@ -17,6 +18,10 @@
 | 생산성이 낮음                             | 생산성이 높음                         |
 | 함수가 프로그래밍의 단위                  | 클래스가 프로그래밍의 단위            |
 | Top-Down                                  | Botton-Up                             |
+
+### Dynamic Binding
+- Late binding, Dynamic linkage
+- 런타임에 메서드를 호출한 객체나, 함수에 불려지는 인수에 의해 바인딩 됨.
 
 ### Encapsulation
 - 객체의 일부 구성 요소를 직접적으로 접근하는 것을 제한한다.
