@@ -15,34 +15,36 @@
 |            |                                         |                               | [Visitor](visitor.md)                                |
 
 ### Creational patterns
-- [Abstract Factory](abstract_factory.md) : 클래스 군의 인스턴스를 생성
+- [Abstract Factory](abstract_factory.md) : 클라이언트에서 구상 클래스를 지정하지 않으면서도 일군의 객체를 생성
 - [Builder](builder.md) : 객체 생성과 표현을 분리
-- [Factory Method](factory_method.md) : 상속된 클래스의 인스턴스를 생성
+- [Factory Method](factory_method.md) : 생성할 구상 클래스를 서브클래스에서 결정
 - [Prototype](prototype.md) : 복제되기 위한 완전히 초기화된 인스턴스
-- [Singleton](singleton.md) : 단 한개의 인스턴스만이 존재할 수 있는 클래스
+- [Singleton](singleton.md) : 딱 한 객체만 생성
 
 ### Structural patterns
-- [Adapter](adapter.md) : 다른 클래스들의 인터페이스를 맞춤
+- [Adapter](adapter.md) : 객체를 감싸서 다른 인터페이스를 제공
 - [Bridge](bridge.md) : 객체의 인터페이스와 구현를 분리
-- [Composite](composite.md) : 단순 객체와 컴포짓 객체의 트리 구조
-- [Decorator](decoartor.md) : 객체들의 책임을 동적으로 추가
-- [Facade](facade.md) : 전체 서브시스템을 단일 클래스로 표현
+- [Composite](composite.md) : 클라이언트에서 객체 컬렉션과 개별 객체를 똑같이 다룸
+- [Decorator](decoartor.md) : 객체를 감싸서 새로운 행동을 제공
+- [Facade](facade.md) : 일련의 클래스에 대해서 간단한 인터페이스를 제공
 - [Flyweight](flyweight.md) : 효율적인 공유를 위한 잘 나눠진 인스턴스
-- [Proxy](proxy.md) : 다른 객체를 표현하는 객체
+- [Proxy](proxy.md) : 객체를 감싸서 그 객체에 대한 접근을 제어
 
 ### Behavioral patterns
 - [Chain of Reponsibility](chain_of_responsibility.md) : 연쇄적으로 객체들에게 요청을 전달하는 방법
-- [Command](command.md) : 명령 요청을 객체로 캡슐화
+- [Command](command.md) : 요청을 객체로 감쌈
 - [Interpreter](interpreter.md) : 프로그램에서 언어요소를 포함하는 방법
-- [Iterator](iterator.md) : 순차적으로 컬렉션의 요소들에 접근
+- [Iterator](iterator.md) : 컬렉션이 어떤 식으로 구현되었는지 드러내진 않으면서도 컬렉션 내에 있는 모든 객체에 대해 반복 작업을 처리
 - [Mediator](mediator.md) : 클래스들 간의 간결한 커뮤니케이션을 정의
 - [Memento](memento.md) : 객체의 내부상태를 캡쳐하고 복원
-- [Observer](observer.md) : 많은 클래스들에게 변경을 알리는 방법
-- [State](state.md) : 상태가 변할 때 객체의 행동을 변경
-- [Strategy](strategy.md) : 클래스 내부의 알고리즘을 캡슐화
-- [Template Method](template_method.md) : 알고리즘의 정확한 절차를 서브클래스로 지연
+- [Observer](observer.md) : 상태가 변경되면 다른 객체들한테 연락
+- [State](state.md) : 상태를 기반으로 한 행동을 캡슐화한 다음 위임을 통해서 필요한 행동을 선택
+- [Strategy](strategy.md) : 교환 가능한 행동을 캡슐화한 다음 위임을 통해서 필요한 행동을 선택
+- [Template Method](template_method.md) : 알고리즘의 개별 단계를 구현하는 방법을 서브클래스에서 결정
 - [Visitor](visitor.md) : 클래스의 변경없이 새로운 오퍼레이션을 정의
 
 ## Reference
 - [SourceMaking](https://sourcemaking.com/design_patterns)
 - [Wikipedia](https://en.wikipedia.org/wiki/Software_design_pattern)
+- Head First Desgin Patterns
+
