@@ -1,6 +1,14 @@
+# Today I Learned
 [상위 페이지로](../index.md)
 
-# Today I Learned
+## 190510
+### Reasoning
+`the action of thinking about something in a logical, sensible way.`  
+Reasoning은 어떠한 것에 대해 논리적이고 합리적인 방법으로 생각하는 행동을 의미한다.  
+한국어로는 추론으로 번역되며, 추론은 어떠한 판단을 근거로 삼아 다른 판단을 이끌어 냄을 의미한다.  
+추론의 예로 연역추론(Deductive reasoning), 귀납추론(Inductive reasoning)이 있다.  
+Reason이 이유라는 뜻을 가지고 있으니, Reasoning은 어떠한 것에 대한 이유를 만드는 것이라고 생각할 수 있다.  
+따라서 `Reasoning about something`은 '어떤 것을 선택하는 것에 대한 이유를 합리적으로 제시하는 것' 정도로 이해할 수 있다.  
 
 ## 190509
 ### Topology
