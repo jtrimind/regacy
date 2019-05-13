@@ -1,6 +1,60 @@
 # Today I Learned
 [상위 페이지로](../index.md)
 
+## 190513
+### 2진수 8진수 숏코딩
+[2진수 8진수](https://www.acmicpc.net/problem/1373)의 숏코딩 정답을 보고 바로 이해가 안되서 분석해보았다.
+```c
+char*p,c[1<<20]="00";main(){for(gets(c+2),p=c+strlen(c)%3;*p;p+=3)putchar(*p*4+p[1]*2+p[2]-32);}
+```
+  
+일단 인덴트를 맞춰주고 필요한 헤더를 넣어주었다.
+```c++
+#include <stdio.h>
+#include <string.h>
+
+char *p, c[1 << 20] = "00";
+int main()
+{
+	// gets는 unsafe해서 vs2015 이상에서는 바로 사용이 안되서 fgets로 치환
+	for (fgets(c + 2, sizeof(c), stdin), p = c + strlen(c) % 3; *p; p += 3)
+	{
+		putchar(*p * 4 + p[1] * 2 + p[2] - 32);
+	}
+	return 0;
+}
+```
+  
+- gets와 putchar을 익숙한 scanf, printf로 바꿔주었다.
+- scanf를 for문 전으로 이동시켰다.
+- char *p는 for문에서만 사용되므로 for문 안으로 넣어주었다.
+- p의 dereference를 p[0]으로 바꿔주었다.
+- 배열 c의 길이를 문제의 조건인 1,000,000 + 1로 변환하였다.
+- `p[0] * 4 + p[1] * 2 + p[2] - 32`의 경우 최적화를 위해 변경하진 않았다.
+
+```c++
+#include <stdio.h>
+#include <string.h>
+
+char c[1000001] = "00";
+int main()
+{
+	scanf("%s", c + 2);
+	for (char *p = c + strlen(c) % 3; p[0] != '\0'; p += 3)
+	{
+		// printf("%c", (p[0] - '0') * 4 + (p[1] - '0') * 2 + (p[2] - '0') + '0');
+		// printf("%c", p[0] * 4 + p[1] * 2 + p[2] - 6 * '0');
+		// printf("%c", p[0] * 4 + p[1] * 2 + p[2] - 256 - 32);
+		printf("%c", p[0] * 4 + p[1] * 2 + p[2] - 32);
+	}
+	return 0;
+}
+```
+  
+코드를 간략히 설명하자면, 입력 스트링의 앞에 `00`을 추가하여 입력받는다.  
+자리 수의 끝을 기준으로 3자리씩 자르는데, `00`이 추가되어있으므로 가장 큰 자리수도 3자리로 자를 수 있다.  
+이진수 3자리의 값을 이용하여 8진수로 변환(`p[0] * 4 + p[1] * 2 + p[0]`)한 뒤 이를 char형으로 출력한다.  
+
 ## 190510
 ### Reasoning
 `the action of thinking about something in a logical, sensible way.`  
