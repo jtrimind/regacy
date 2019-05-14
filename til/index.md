@@ -1,6 +1,21 @@
 # Today I Learned
 [상위 페이지로](../index.md)
 
+## 190514
+### Discipline
+```
+1. the practice of training people to obey rules or a code of behavior, using punishment to correct disobedience.
+2. a branch of knowledge, typically one studied in higher education.
+```
+discipline이 훈육 외에도 지식 분야라는 의미가 있다. 따라서 `engineering discipline`은 공학 분야라는 의미이다.
+
+### Exemplify
+```
+- be a typical example of.
+- give an example of; illustrate by giving an example.
+```
+`전형적인 예가 되다`, `예를 들어 설명하다`라는 의미이다.
+
 ## 190513
 ### 2진수 8진수 숏코딩
 [2진수 8진수](https://www.acmicpc.net/problem/1373)의 숏코딩 정답을 보고 바로 이해가 안되서 분석해보았다.
