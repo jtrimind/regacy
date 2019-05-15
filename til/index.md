@@ -1,6 +1,14 @@
 # Today I Learned
 [상위 페이지로](../index.md)
 
+## 190515
+### De facto
+`denoting someone or something that is such in fact.`
+'사실의'이라는 의미이다.  
+널리 인정되는 비공식적 관습을 데 팍토 표준(de facto standard)이라고 한다.  
+반의어로 데 유레(De jure)가 있다.  
+`de facto standard(사실상 표준)` <-> `de jure standard(공식적 표준)`
+
 ## 190514
 ### Discipline
 ```
