@@ -4,6 +4,7 @@
 ## Table of Contents
 - [Reference](#reference)
 - [Abstract](#abstract)
+- [Introduction](#introduction)
 
 ## Reference
 [Attribute-Based Architectural Styles](https://resources.sei.cmu.edu/asset_files/TechnicalReport/1999_005_001_16781.pdf)
@@ -19,6 +20,30 @@ Attribute-Based Architectural Styles(ABASs)는 아키텍처 스타일을 기반�
 과거 설계자들은 비슷한 문제들을 직면하며 지혜를 축적해왔으며, ABAS는 설계자에게 이러한 집약된 지혜를 제공하기 때문에 강력하다.  
 이 보고서에서 우리는 설계와 분석 모두에서 ABAS의 사용 예시를 보여준다.  
 우리는 ABAS가 아키텍처 설계 공학 분야를 만드는 기반을 제공한다고 주장한다. 이는 설계가 애드혹이 아닌 예측가능한 프로세스로 만들기 위함이다.  
+
+## Introduction
+### Architectural style의 정의와 상세
+#### Architectural sytle의 정의
+- description of component types and their topology
+- description of the pattern of data and control interaction among the components
+- informal description of the benefits and drawbacks of using that style
+
+#### Architectural style이 중요한 산출물인 이유
+- they define *classes* of designs along with their associated known properties
+
+#### Architectural style이 제공하는 것
+- experience-based evidence
+  - of how each class has been used historically
+- qualitative reasoning
+  - to explain why each class has its specific properties
+
+#### Architectural style 서술 형식의 예(pipe and filter style)
+- "Use the pipe and filter style when reuse is desired and performance is not a top priority"
+
+#### Architectural style이 강력한 이유
+- they provide a reuser with the concentrated wisdom of many preceding designers faced with similar problems
+- Using architectural styles allows an architect to reuse the collected wisdom of the architecture design community
+   - in much the same way that object-oriented design patterns give novice designers access to a vast array of experience collected in the object-oriented design community
 
 ## Performance Characterization
 ```
