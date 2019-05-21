@@ -1,9 +1,14 @@
 # Today I Learned
 [상위 페이지로](../index.md)
 
+## 190521
+### Borne
+`carried or transported by the thing specified.`  
+`-borne`은 -로 전달됨이라는 의미이다. `waterborne diseases`는 수인성 전염병을 의미한다.
+
 ## 190515
 ### De facto
-`denoting someone or something that is such in fact.`
+`denoting someone or something that is such in fact.`  
 '사실의'이라는 의미이다.  
 널리 인정되는 비공식적 관습을 데 팍토 표준(de facto standard)이라고 한다.  
 반의어로 데 유레(De jure)가 있다.  
