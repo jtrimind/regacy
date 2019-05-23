@@ -1,6 +1,11 @@
 # Today I Learned
 [상위 페이지로](../index.md)
 
+## 190522
+### Embodiment
+`a tangible or visible form of an idea, quality, or feeling.`  
+`embodiment of sth`은 sth의 전형, 화신이라는 의미이다.  
+
 ## 190521
 ### Borne
 `carried or transported by the thing specified.`  
