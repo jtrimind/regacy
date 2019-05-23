@@ -1,6 +1,16 @@
 # Today I Learned
 [상위 페이지로](../index.md)
 
+## 190523
+### Geofence
+`Geography + Fence`  
+실제 위치에 기반해 가상의 경계나 구역을 만드는 기술  
+위치정보에 기반한 광고나 배민의 경우 배달가능 여부를 판단하는데 사용  
+  
+ref)  
+[itworld](http://www.itworld.co.kr/news/110361#csidxf935e45938d3942a2a9d1b8a849dc10)  
+[우아한형제들 기술 블로그](http://woowabros.github.io/experience/2018/03/31/hello-geofence.html)  
+
 ## 190522
 ### Embodiment
 `a tangible or visible form of an idea, quality, or feeling.`  
