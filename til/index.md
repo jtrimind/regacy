@@ -1,6 +1,15 @@
 # Today I Learned
 [상위 페이지로](../index.md)
 
+## 190524
+### Apparatus
+```
+1. the technical equipment or machinery needed for a particular activity or purpose.
+2. a complex structure within an organization or system.
+```
+apparatus는 특정 활동이나 목적을 위해 필요한 기술적인 장비/기계류이다.  
+정부 기관의 조직체를 의미하기도 한다.  
+
 ## 190523
 ### Geofence
 `Geography + Fence`  
