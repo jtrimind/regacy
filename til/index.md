@@ -1,6 +1,13 @@
 # Today I Learned
 [상위 페이지로](../index.md)
 
+## 190528
+### Pedantic
+`of or like a pedant.`  
+pedant는 `a person who is excessively concerned with minor details and rules or with displaying academic learning.`, 즉 지나치게 규칙에 얽매이는 사람을 말한다.  
+gcc의 pedantic 옵션은 ISO C, ISO C++ 규칙에 의거하여 경고를 해주는 옵션이다.  
+[자세한 설명](https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html)
+
 ## 190524
 ### Apparatus
 ```
