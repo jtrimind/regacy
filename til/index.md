@@ -5,6 +5,33 @@
 ### Spectacles
 굉장한 구경거리라는 의미 외에도 안경이라는 의미도 있다.
 
+### Json-glib code snippet
+```c
+static const gchar *foo_object_json = 
+" { \"bar\" : 42, \"baz\" : \"foo\" }";
+
+int main(void)
+{
+	GError *error = NULL;
+	JsonParser *parser = json_parser_new();
+	json_parser_load_from_data(parser, foo_object_json, -1, &error);
+	if (error) {
+		g_error("Unable to create instance: %s", error->message);
+	}
+
+	JsonNode *root = json_parser_get_root(parser);
+	JsonObject *object = json_node_get_object(root);
+
+	JsonNode *bar = json_object_get_member(object, "bar");
+	gint64 bar_int = json_node_get_int(bar);
+	JsonNode *baz = json_object_get_member(object, "baz");
+	const gchar *baz_string = json_node_get_string(baz);
+
+	g_print("bar_int : %ld baz_string : %s\n", bar_int, baz_string);
+	g_object_unref(parser);
+}
+```
+
 ## 190611
 ### Pisano Period
 피보나치 수열을 n으로 나누면 그 수열은 주기를 가지게 되는데, 이를 피사노 주기라고 하고, π(n)이라고 쓴다.
