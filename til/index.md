@@ -1,6 +1,13 @@
 # Today I Learned
 [상위 페이지로](../index.md)
 
+## 190703
+### Bipartite Graph
+- 그래프의 정점의 집합을 둘로 분할하여, 각 집합에 속한 정점끼리는 서로 인접하지 않도록 분할할 수 있을 때, 그러한 그래프를 특별히 이분 그래프 (Bipartite Graph) 라 부른다.
+- 인접한 정점끼리 서로 다른 색으로 칠해서 모든 정점을 두 가지 색으로만 칠할 수 있는 그래프.
+  
+ret) https://gmlwjd9405.github.io/2018/08/23/algorithm-bipartite-graph.html
+
 ## 190620
 ### Spectacles
 굉장한 구경거리라는 의미 외에도 안경이라는 의미도 있다.
