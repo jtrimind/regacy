@@ -1,6 +1,12 @@
 # Today I Learned
 [상위 페이지로](../index.md)
 
+## 190726
+### Famished
+`extremely hungry`  
+아사할 정도로 배고픈 상태  
+ex) I'm famished--is there anyting to eat?  
+
 ## 190703
 ### Bipartite Graph
 - 그래프의 정점의 집합을 둘로 분할하여, 각 집합에 속한 정점끼리는 서로 인접하지 않도록 분할할 수 있을 때, 그러한 그래프를 특별히 이분 그래프 (Bipartite Graph) 라 부른다.
