@@ -77,3 +77,79 @@ Description / Habit / Past Experience / Comparison
 ### I feel like
 내가 이렇게 느낀다
 - `I truly felt like an ant!`
+
+## 오픽하느님, 질문을 들을 땐 무슨 생각을 해야 하나요? | IM 시리즈 004
+### 질문을 들을 때
+처음 들을 때는 
+1. 토픽(무엇에 대해 묻는지)
+2. 카테고리(Description / Habit / Past Experience / Comparison)
+를 생각하고, 두번째 들을 때 답변을 생각할 것
+
+```
+You indicated in the survey that you stay at home for vacations.
+Who are the people you would like to see and spend time with on your vacation?
+```
+- Topic : home vacations
+- Category : Description / Habit
+
+### Family vs. Parents
+familiy는 포괄적인 가족이므로 parents가 나음.  
+그리고 당연히 집에 사니까 at home 필요 없음
+- `I'm living with my family at home`(X)
+- `I'm currently liviing with my parents`(O)
+- `I'm live in my parent's home`(O)
+
+### whether I like it or not
+- `So, whether I like it or not, ~`
+
+### I have to be with
+- `I have to be with my parents`
+
+### I have no choice but
+- `I have no choice but to be with my parents.`
+
+### stuck
+- `I'm totally suck with my parents.`
+
+### as I already told you before
+
+### extroverted / introverted
+- `I'm not that outgoing person.`(X)
+- `I'm not that outgoing`(O)
+- `I'm not an outgoing person at all`(O)
+- `I'm not extroverted at all`(O)
+
+### hang out, meet people, go out
+사람들을 만나다
+
+### don't get me wrong
+오해하지 마라
+
+### I love them to death
+죽을만큼 사랑해
+
+### move out, out of->outta
+이사하다.
+
+## 오픽에 재미있는 TMI 답변을 준비해보세요! | IM 시리즈 005
+### 방귀 표현 4가지
+1. let it rip / let one rip
+  - `I needed to let it rip.` or `I let it rip.`
+2. cut cheese
+  - `I was at Starbucks and all of a sudden I had to cut cheese.`
+3. thunder form down under
+  - `I was at the bar with my friends the other day, and all ot a sudden I felt a little thunder from down under.`
+4. silent but deadly
+  - `I cut cheese in the restaurant, and I was hoping that no one would find out. I mean, it was silent, but deadly.`
+
+### 응가 표현 4가지
+1. number 1(소변)
+2. number 2(대변)
+3. take a dump
+  - `I felt like taking a dump during the meeting. Oh, the timing was terrible.`
+4. deuce it
+  - `I had to deuce it.`
+
+### 예문
+- `the sound was as clear as day`
+- `unleash my beast / unload my beast`
