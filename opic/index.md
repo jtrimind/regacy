@@ -153,3 +153,57 @@ familiy는 포괄적인 가족이므로 parents가 나음.
 ### 예문
 - `the sound was as clear as day`
 - `unleash my beast / unload my beast`
+
+## 오픽 묘사 질문 대답을 어떻게 영어로 뇌에 쏙쏙 박히게 만들까 ㅣ IM 시리즈 006
+### What I really love
+- `My favorite room is my strorage room.`(X)
+- `I love my stroage room.`(O)
+- `What I really love about my home is my storage room.`(O)
+
+### all that
+- `My home isn't all that big.`
+- `It's not all that small either.`
+
+### But, you know,
+- `But, you know, It's not all that small either`
+
+### But I got to say(=But I gotta say),
+- `But I got to say what I really love about my home is my stroage room.`
+
+### just
+- `It's just so spacious.`
+
+### Fillers
+- `You see` : 설명하기 전에 씀
+- `really`
+- `I guess`
+
+## 오픽 패션, 가구 묘사 답변! 영어로 뇌에 문신 새기기~! ㅣ IM 시리즈 007
+
+### tend to
+- `People tend to only wear safe colors.`
+
+### I find it
+- `I find it quite boring`
+
+### you can say that
+- `I guess, you can say that I like to stand out.`
+
+### 완성예문
+```
+You know. I gotta say. what I really hate about fashion here in Korea is that people tend to only wear safe colors.
+You can say I find it quite boring.
+You see. for me. I try not to follow those trends.
+I try to be as colorful as possible.
+I guess. you can say that I like to stand out.
+```
+
+### interesting
+- `What I really find interesting about my work desk is that it's the only dark funiture that I have at home.`
+
+### 완성예문
+```
+What I really find interesting about my work desk is that it's the only dark funiture that I have at home.
+It's completely black and totally stands out in my living room.
+It's funny cos all my other funiture is light in color.
+```
