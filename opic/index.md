@@ -207,3 +207,42 @@ What I really find interesting about my work desk is that it's the only dark fun
 It's completely black and totally stands out in my living room.
 It's funny cos all my other funiture is light in color.
 ```
+
+## 불가능! 하지만 오픽 habit 질문의 대답들이 입에서 슉슉 나오게 만들어줄게요! ㅣ IM 시리즈 008
+### HABIT EXPRESSION #1
+- `No matter what. whenever I "go to bank". I always make sure to bring "my airpods".`
+- `No matter what. whenever I "go to beach". I always make sure to bring "my sunscreen".`
+- `No matter what. whenever I "am home during week". I always make sure to "take out the recycling".`
+- 추가표현 : `Well, here's the thing. No matter what. ~~~`
+
+### HABIT EXPRESSION #2
+- `Every time I "go to bank". I always check to see that/if I have "my airpods" with me.`
+
+### HABIT EXPRESSION #3
+- `I'll tell  you what.`(=You know what?)
+
+### MP 이후 추가표현
+- `This is crucial because ...`
+- `This is very important because ...`
+- `I find this very important to me because ...`
+
+### Quick comparsion method
+- MP -> Past(1,2문장) -> MP
+
+### 완성예문
+```
+Well. here's the thing.
+Whenever I go to the bank.
+I always make sure to bring my airpods.
+You know. this is very crucial because
+sometimes the waiting time is just so long.
+And so. whenever I'm listening to music.
+it really helps me to kill time.
+But you see. in the past. I never did that before.
+So the waiting time was just so long.
+But now. you know. that problem is completely solved.
+And that is why. you know.
+sometimes. whenever I go to the bank.
+I sometimes want the waiting time to be longer.
+because I really enjoy my music.
+```
