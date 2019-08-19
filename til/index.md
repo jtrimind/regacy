@@ -1,6 +1,18 @@
 # Today I Learned
 [상위 페이지로](../index.md)
 
+## 190819
+### Surrogate
+```
+noun
+1. a substitute, especially a person deputizing for another in a specific role or office.
+
+adjective
+1. relating to the birth of a child or children by means of surrogacy.
+```
+대리인, 대리의  
+ex) Provide a surrogate or placeholder for another object to control access to it.
+
 ## 190726
 ### Famished
 `extremely hungry`  
