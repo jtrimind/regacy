@@ -1,5 +1,18 @@
+# ATAM: Method for Architecture Evaluation
+
+## Reference
+[ATAM: Method for Architecture Evaluation](https://resources.sei.cmu.edu/asset_files/TechnicalReport/2000_005_001_13706.pdf)
+
+---
+
 ## Table of Contents
-- [Reference](#reference)
+- [Abstract](#abstract)
+- [Introduction](#introduction)
+- [The Underlying Concepts](#the-underlying-concepts)
+- [A Brief Introduction to the ATAM](#a-brief-introduction-to-the-atam)
+- [Quality Attribute Characterizations](#quality-attribute-characterizations)
+- [Scenarios](#scenarios)
+- [Attribute-Based Architectural Styles](#attribute-based-architectural-styles)
 - [Outputs of ATAM](#output-of-atam)
   - [Risks and Non-Risks](#risks-and-non-risks)
   - [Sensitivity and Tradeoff Points](#sensitivity-and-tradeoff-points)
@@ -14,11 +27,26 @@
   7. Brainstorm and Prioritize Scenarios
   8. Analyze Architecture Approaches
   9. [Present Results](#present-results)
+- The Two Phases of ATAM
+- A Sample Evaluation: The BCS
+- Results Of The BCS ATAM
+- Conclusions
 
 ---
 
-## Reference
-[ATAM: Method for Architecture Evaluation](https://resources.sei.cmu.edu/asset_files/TechnicalReport/2000_005_001_13706.pdf)
+## Abstract
+
+## Introduction
+
+## The Underlying Concepts
+
+## The Brief Introduction to the ATAM
+
+## Quality Attribute Characterizations
+
+## Scenarios
+
+## Attribute-Based Architectural Styles
 
 ## Output of ATAM
 ### Risks and Non-Risks
