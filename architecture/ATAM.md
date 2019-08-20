@@ -18,7 +18,7 @@
   - [Sensitivity and Tradeoff Points](#sensitivity-and-tradeoff-points)
   - [A Structure for Reasoning](#a-structure-for-reasoning)
 - [The Steps of ATAM](#the-steps-of-atam)
-  1. Present the ATAM
+  1. [Present the ATAM](#present-the-atam)
   2. Present Business Drivers
   3. Present Architecture
   4. [Identify Architectural Approaches](#identify-architectural-approaches)
@@ -94,6 +94,15 @@ Tradeoff point: a property that affects more than one attribute and is a sensiti
 - [ABAS](ABAS.md)와 quality attribute characterizations은 resoning model을 만드는 기술기반을 제공
 
 ## The Steps of ATAM
+### Present the ATAM
+이 단계에서, 평가팀은 ATAM을 이해관계자들에게 소개한다.  
+이 시간은 모든 사람들에게 이후에 진행될 프로세스를 설명하고, 질의응답을 하고, 남은 활동들에 대한 맥락과 기대를 설정하는데 사용된다.  
+모든 사람들이 어떤 정보들이 수집되고, 어떻게 자세히 조사될 것인지, 누구에게 보고될 것인지 아는 것이 중요하다.  
+특히 프리젠테이션은 이하의 내용을 설명한다.  
+- ATAM의 간략한 절차
+- 도출 및 분석에 사용될 기법: 유틸리티 트리 생성, 아키텍처 접근 기반 도출/분석, 시나리오 브레인스토밍/매핑
+- 평가의 산출물: 도출되고 우선순위가 지정된 시나리오, 아키텍처를 이해/평가하기 위해 사용되는 질문, 유틸리티 트리, 아키텍처 동인 요구사항 설몇 및 우선순위 지정, 확인된 아키텍처 접근 및 스타일 집합, 발견된 리스크, 논-리스크 집합, 발견된 센서티비티 포인트 및 트레이드오프
+
 ### Identify Architectural Approaches
 
 ### Analyze Architectural Approaches
