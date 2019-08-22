@@ -19,7 +19,7 @@
   - [A Structure for Reasoning](#a-structure-for-reasoning)
 - [The Steps of ATAM](#the-steps-of-atam)
   1. [Present the ATAM](#present-the-atam)
-  2. Present Business Drivers
+  2. [Present Business Drivers](#present-business-drivers)
   3. Present Architecture
   4. [Identify Architectural Approaches](#identify-architectural-approaches)
   5. Generate Quality Attribute Utility Tree
@@ -102,6 +102,34 @@ Tradeoff point: a property that affects more than one attribute and is a sensiti
 - ATAM의 간략한 절차
 - 도출 및 분석에 사용될 기법: 유틸리티 트리 생성, 아키텍처 접근 기반 도출/분석, 시나리오 브레인스토밍/매핑
 - 평가의 산출물: 도출되고 우선순위가 지정된 시나리오, 아키텍처를 이해/평가하기 위해 사용되는 질문, 유틸리티 트리, 아키텍처 동인 요구사항 설몇 및 우선순위 지정, 확인된 아키텍처 접근 및 스타일 집합, 발견된 리스크, 논-리스크 집합, 발견된 센서티비티 포인트 및 트레이드오프
+
+### Present Business Drivers
+평가에 참여하는 모든 사람들은 시스템을 이해할 필요가 있다.  
+이 단계에서 프로젝트 매니저는 비즈니스 관점에서 전체적인 시스템 개요를 소개한다.  
+시스템은 높은 추상화 수준에서 제시되어야 한다.  
+일반적으로 이하의 내용을 설명한다.
+- 가장 중요한 기능적 요구사항
+- 기술적, 관리적, 경제적, 정치적 제약
+- 비즈니스 목표와 맥락
+- 주요 이해관계자
+- 아키텍처 동인(아키텍처를 정하는 주요 품질속성 목표)
+
+#### Business Case/Architecture Presentation
+단계 2,3(비즈니스 동인과 아키텍처 제시)에서 제시된 정보의 품질, 일관성, 풍부함을 보장하기 위해, 우리는 발표자에게 문서 템플릿을 일반적으로 제공한다.  
+비즈니스 케이스를 위해 제공되는 문서 템플릿의 예시는 아래와 같다.
+```
+비즈니스 문맥/동인 제시 (~ 12 슬라이드; 45분)
+
+- 비즈니스 환경, 역사, 시장 차별화 요소, 동인 요구사항, 이해관계자, 현재 요구와 어떻게 제안된 시스템이 이러한 요구를 충족시킬지, 요구사항들에 대한 설명(3-4 슬라이드)
+
+- 비즈니스 제약 사항에 대한 설명(예를 들어, 출시 날짜, 고객 요구사항, 표준, 비용 등) (1-3 슬라이드)
+
+- 기술적 제약 사항에 대한 설명(COTS, 다른 시스템과의 호환성, 필요한 하드웨어/소프트웨어 플랫폼, 레거시 코드 재활용 등.) (1-3 슬라이드)
+
+- 원하는 품질 속성(performance, availability, security, modifiability, interoperability, integrability) 및 파생되는 비즈니스 요구 사항 (2-3 슬라이드)
+
+- 용어집 (1 슬라이드)
+```
 
 ### Identify Architectural Approaches
 
