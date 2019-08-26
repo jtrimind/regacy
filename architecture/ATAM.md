@@ -20,7 +20,7 @@
 - [The Steps of ATAM](#the-steps-of-atam)
   1. [Present the ATAM](#present-the-atam)
   2. [Present Business Drivers](#present-business-drivers)
-  3. Present Architecture
+  3. [Present Architecture](#present-architecture)
   4. [Identify Architectural Approaches](#identify-architectural-approaches)
   5. Generate Quality Attribute Utility Tree
   6. [Analyze Architectural Approaches](#analyze-architectural-approaches)
@@ -130,6 +130,23 @@ Tradeoff point: a property that affects more than one attribute and is a sensiti
 
 - 용어집 (1 슬라이드)
 ```
+
+### Present Architecture
+아키텍처는 아키텍트에 의해 적절한 수준의 디테일을 가지고 제시될 것이다.  
+적절한 수준은 무엇인가?  
+이는 몇가지 요인에 따라 결정된다: 얼마나 많은 정보들이 결정되고 문서화되었는지; 얼마나 많은 시간을 쓸 수 있는지; 시스템이 직면한 리스크가 얼마나 많은 지  
+이용 가능하고 문서화된 아키텍처 정보의 양은 수행 가능한 분석과 분석의 품질에 직접적으로 영향을 미친다. 그러므로 이것은 중요한 단계이다.  
+좀 더 실질적인 분석을 하기 전에, 평가팀은 수집해야하고 문서화해야하는 추가적인 아키텍처 정보를 지정할 것이다.  
+
+이 발표에서 아키텍처는 다음을 포함해야 한다.
+- 기술적 제약조건(사용을 위해 규정된 OS, 하드웨어, 미들웨어)
+- 시스템이 상호작용해야하는 다른 시스템
+- 품질 특성 요구사항을 충족하기 위해 사용되는 아키텍처 접근 방식
+
+이 때, 평가 팀은 아키텍처 접근에 대한 초기 탐색을 시작한다.
+
+아키텍처 발표를 위한 템플릿은 아래와 같다.
+ATAM에 앞서 이러한 템플릿을 적절한 이해관계자(이 경우, 아키텍트)에게 제공하는 것은, 그들이 제시하는 정보의 변동성을 줄이고, 우리가 스케쥴에 맞추고 있다는 것에 도움을 준다.
 
 ### Identify Architectural Approaches
 
