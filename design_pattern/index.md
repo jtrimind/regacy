@@ -46,5 +46,6 @@
 ## Reference
 - [SourceMaking](https://sourcemaking.com/design_patterns)
 - [Wikipedia](https://en.wikipedia.org/wiki/Software_design_pattern)
+- [w3sDesign](http://w3sdesign.com/index0100.php)
 - Head First Desgin Patterns
 
