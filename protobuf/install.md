@@ -1,6 +1,6 @@
 # Protobuf 설치
 
-[상위 폴더로](../index.md)
+[상위 폴더로](index.md)
 
 ## 공식 사이트 링크
 - [README](https://github.com/protocolbuffers/protobuf/blob/master/src/README.md)

@@ -1,6 +1,6 @@
 # Protobuf 튜토리얼
 
-[상위 폴더로](../index.md)
+[상위 폴더로](index.md)
 
 ## 공식 사이트 링크
 - [Basics: C++](https://developers.google.com/protocol-buffers/docs/cpptutorial?hl=ko)
