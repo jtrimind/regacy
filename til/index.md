@@ -1,6 +1,12 @@
 # Today I Learned
 [상위 페이지로](../index.md)
 
+## 190909
+### Rule of thumb
+`a broadly accurate guide or principle, based on experience or practice rather than theory`  
+rule은 규칙이 아닌 척도라는 의미. 경험 상 통용되는 결정. 관행.  
+ex) It's a rule-of-thumb decision
+
 ## 190819
 ### Surrogate
 ```
