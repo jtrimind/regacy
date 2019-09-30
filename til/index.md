@@ -1,6 +1,20 @@
 # Today I Learned
 [상위 페이지로](../index.md)
 
+## 190930
+### At one's fingertips
+`convient and easy to find`
+편하고 사용하기 쉬운  
+ex) Our tablet has a sleek design and all the tools you need at your figertips
+
+### My understanding of sth
+내가 이해하기로는
+ex) My understanding of the situation is that the strike will end as soon as serious negotiations begin.`  
+    So my understanding of it is that the garbage guys... can't... have to be able to recognize that it's recycling as opposed to normal trash.`  
+
+### My experience overall
+내 경험 상 대체로,
+
 ## 190909
 ### Rule of thumb
 `a broadly accurate guide or principle, based on experience or practice rather than theory`  
