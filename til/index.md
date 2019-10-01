@@ -1,6 +1,15 @@
 # Today I Learned
 [상위 페이지로](../index.md)
 
+## 191001
+### When it comes to
+~에 관한 한  
+ex) When it comes to getting things done, he's useless.  
+
+### Let me start with
+~부터 시작해보자  
+ex) Let me start with the past.  
+
 ## 190930
 ### At one's fingertips
 `convient and easy to find`
