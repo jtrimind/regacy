@@ -1,6 +1,11 @@
 # Today I Learned
 [상위 페이지로](../index.md)
 
+## 191002
+### I would have to say
+말해야 할 것 같아  
+ex) I would have to say my biggest influence in muisc is probably growing up in my mother's house  
+
 ## 191001
 ### When it comes to
 ~에 관한 한  
