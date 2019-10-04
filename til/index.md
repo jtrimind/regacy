@@ -1,6 +1,15 @@
 # Today I Learned
 [상위 페이지로](../index.md)
 
+## 1901004
+### have no clue(=have no idea)
+전혀 이해하지 못하다  
+ex) I have no clue what you're saying  
+
+### let alone
+~는 커녕  
+ex) There isn't enough room for us, let alone any guests.
+
 ## 191002
 ### I would have to say
 말해야 할 것 같아  
