@@ -1,6 +1,14 @@
 # Today I Learned
 [상위 페이지로](../index.md)
 
+## 191007
+### big of a deal
+대단한 일  
+ex) It's not really that big of a deal.  
+
+### That's all I remember
+내가 기억하는 전부에요  
+
 ## 1901004
 ### have no clue(=have no idea)
 전혀 이해하지 못하다  
