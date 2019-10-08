@@ -1,6 +1,15 @@
 # Today I Learned
 [상위 페이지로](../index.md)
 
+## 191008
+### fast
+단식  
+ex) I have been fasting all day.  
+
+### I don't really know much about
+~에 대해 잘 모른다.  
+ex) I don't really know much about recycling in the media  
+
 ## 191007
 ### big of a deal
 대단한 일  
