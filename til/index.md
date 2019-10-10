@@ -1,6 +1,15 @@
 # Today I Learned
 [상위 페이지로](../index.md)
 
+## 191010
+### as long as
+~하는 한  
+ex) whatever I chose to do in life, as long as I would do my best, he would be very proud of me.
+
+### full of warmth
+정감이 넘치는  
+ex) His performance is always full of warmth.
+
 ## 191008
 ### fast
 단식  
