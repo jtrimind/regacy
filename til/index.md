@@ -1,6 +1,11 @@
 # Today I Learned
 [상위 페이지로](../index.md)
 
+## 191011
+### That's all I have to say
+그게 내 할말의 전부이다.  
+ex) Yeah, I guess that's all I have to say  
+
 ## 191010
 ### as long as
 ~하는 한  
