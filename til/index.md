@@ -1,6 +1,19 @@
 # Today I Learned
 [상위 페이지로](../index.md)
 
+## 191012
+### as far as I know
+내가 알기로는,  
+ex) As far as I know, that movie is releasing this week.  
+
+### from what I hear
+내가 듣기로는,  
+ex) From what I hear, the man was a drug addict.  
+
+### the way I see it
+내가 보기에는  
+ex) The way I see it, the timing was the problem.  
+
 ## 191011
 ### That's all I have to say
 그게 내 할말의 전부이다.  
