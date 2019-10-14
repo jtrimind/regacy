@@ -1,6 +1,11 @@
 # Today I Learned
 [상위 페이지로](../index.md)
 
+## 191014
+### happen to
+공교롭게, 혹시, 마침  
+ex) I happen to have some cash on me right now.
+
 ## 191012
 ### as far as I know
 내가 알기로는,  
