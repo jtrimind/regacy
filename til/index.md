@@ -1,6 +1,11 @@
 # Today I Learned
 [상위 페이지로](../index.md)
 
+## 191015
+### as much as + if not more
+더 많이는 아니더라도 ~만큼
+ex) I think (that) the people (that) we work with can have just as much impact on our overall job satisfaction as the job itself, if not more.  
+
 ## 191014
 ### happen to
 공교롭게, 혹시, 마침  
