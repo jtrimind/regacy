@@ -1,6 +1,12 @@
 # Today I Learned
 [상위 페이지로](../index.md)
 
+## 191016
+### no-brainer
+`something that requires or involves little or no mental effort.`  
+머리를 쓰지 않아도 되는 쉬운 것  
+ex) it's a no-brainer  
+
 ## 191015
 ### as much as + if not more
 더 많이는 아니더라도 ~만큼
