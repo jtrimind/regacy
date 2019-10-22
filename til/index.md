@@ -1,6 +1,27 @@
 # Today I Learned
 [상위 페이지로](../index.md)
 
+## 191022
+### reach
+```
+verb
+1. to arrive at a place, especially after spending a long time or a lot of effort travelling
+2. to get to a particular level, especially a high one
+3. to strech out your arm in order to get or touch something
+
+noun.
+1. your reach is the distance within which you can stretch out your arm and touch something
+2. the limit within which someone can achieve something
+```
+ex) It's out of reach
+1. 손에 닿지 않는 곳에 있다.
+2. 능력 밖이다.
+
+## 191021
+### congratulate on
+~를 축하하다.  
+ex) Let me congratulate you on your promotion
+
 ## 191016
 ### no-brainer
 `something that requires or involves little or no mental effort.`  
