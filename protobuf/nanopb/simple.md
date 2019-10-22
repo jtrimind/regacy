@@ -22,7 +22,7 @@ Your lucky number was 13!
 
 ## simple example 분석
 ### simple.protobuf
-```
+```c++
 // A very simple protocol definition, consisting of only
 // one message.
 
@@ -36,7 +36,7 @@ SimpleMessage라는 메시지는 lucky_number라는 int32 필드를 가지고 �
 
 ### simple.c
 #### encode
-```c
+```c++
 /* SimpleMessage 초기화. */
 SimpleMessage message = SimpleMessage_init_zero;
 
@@ -51,7 +51,7 @@ status = pb_encode(&stream, SimpleMessage_fields, &message);
 ```
 
 #### decode
-```c
+```c++
 /* SimpleMessage 초기화. */
 SimpleMessage message = SimpleMessage_init_zero;
 

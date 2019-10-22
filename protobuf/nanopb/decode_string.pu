@@ -1,0 +1,9 @@
+@startuml
+pb_decode -> pb_decode_ex
+pb_decode_ex -> pb_decode_inner
+pb_decode_inner -> decode_field
+decode_field -> decode_static_field
+decode_static_field -> decode_basic_field
+decode_basic_field -> pb_dec_string
+pb_dec_string -> pb_decode_varint32
+@enduml

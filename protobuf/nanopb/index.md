@@ -10,3 +10,6 @@ Nanopb는 Google의 Protocol Buffers 데이터 포맷의 간단한 C 구현체�
 
 ## [simple example](simple.md)
 simple 예제 실행법 및 분석  
+
+## [string encode/decode](string.md)
+string 필드 encode, decode

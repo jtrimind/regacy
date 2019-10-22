@@ -1,0 +1,8 @@
+@startuml
+pb_decode -> pb_decode_ex
+pb_decode_ex -> pb_decode_inner
+pb_decode_inner -> decode_field
+decode_field -> decode_callback_field
+decode_callback_field -> pb_make_string_substream
+pb_make_string_substream -> pb_decode_varint32
+@enduml
