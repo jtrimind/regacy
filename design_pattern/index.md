@@ -1,4 +1,6 @@
-## Index
+# Design Pattern
+
+[상위 폴더로](../index.md)
 
 |            | Creational patterns                     | Structural patterns           | Behavioral patterns                                  |
 |------------|-----------------------------------------|-------------------------------|------------------------------------------------------|
@@ -14,14 +16,14 @@
 |            |                                         |                               | [Strategy](strategy.md)                              |
 |            |                                         |                               | [Visitor](visitor.md)                                |
 
-### Creational patterns
+## Creational patterns
 - [Abstract Factory](abstract_factory.md) : 클라이언트에서 구상 클래스를 지정하지 않으면서도 일군의 객체를 생성
 - [Builder](builder.md) : 객체 생성과 표현을 분리
 - [Factory Method](factory_method.md) : 생성할 구상 클래스를 서브클래스에서 결정
 - [Prototype](prototype.md) : 복제되기 위한 완전히 초기화된 인스턴스
 - [Singleton](singleton.md) : 딱 한 객체만 생성
 
-### Structural patterns
+## Structural patterns
 - [Adapter](adapter.md) : 객체를 감싸서 다른 인터페이스를 제공
 - [Bridge](bridge.md) : 객체의 인터페이스와 구현를 분리
 - [Composite](composite.md) : 클라이언트에서 객체 컬렉션과 개별 객체를 똑같이 다룸
@@ -30,7 +32,7 @@
 - [Flyweight](flyweight.md) : 효율적인 공유를 위한 잘 나눠진 인스턴스
 - [Proxy](proxy.md) : 객체를 감싸서 그 객체에 대한 접근을 제어
 
-### Behavioral patterns
+## Behavioral patterns
 - [Chain of Reponsibility](chain_of_responsibility.md) : 연쇄적으로 객체들에게 요청을 전달하는 방법
 - [Command](command.md) : 요청을 객체로 감쌈
 - [Interpreter](interpreter.md) : 프로그램에서 언어요소를 포함하는 방법
