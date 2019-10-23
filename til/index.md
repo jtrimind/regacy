@@ -1,6 +1,13 @@
 # Today I Learned
 [상위 페이지로](../index.md)
 
+## 191023
+### How did it go?
+어떻게 됐어?
+ex)
+"How did it go in Sinapore?"  
+"It was awful, everything went wrong."
+
 ## 191022
 ### reach
 ```
