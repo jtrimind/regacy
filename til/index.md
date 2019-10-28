@@ -1,6 +1,11 @@
 # Today I Learned
 [상위 페이지로](../index.md)
 
+## 191028
+### Apply lotion
+로션을 바르다.  
+ex) Apply lotion to prevent dry skin  
+
 ## 191023
 ### How did it go?
 어떻게 됐어?
