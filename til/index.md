@@ -1,6 +1,10 @@
 # Today I Learned
 [상위 페이지로](../index.md)
 
+## 191029
+### It was so close
+아깝다.  
+
 ## 191028
 ### Apply lotion
 로션을 바르다.  
