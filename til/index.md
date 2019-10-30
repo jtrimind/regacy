@@ -1,7 +1,14 @@
 # Today I Learned
 [상위 페이지로](../index.md)
 
+## 191030
+### No, That is not the case.
+아니, 사실은 그렇지 않아.
+
 ## 191029
+### Yes, if that is what must be done.
+그래, 해야만 한다면 말이지
+
 ### It was so close
 아깝다.  
 
