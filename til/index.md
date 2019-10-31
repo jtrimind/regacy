@@ -1,6 +1,12 @@
 # Today I Learned
 [상위 페이지로](../index.md)
 
+## 191031
+### At your service
+Ricardio `at your service`.  
+1. 처음 보는 다른 이에게 정중히 소개할 때 사용
+2. 도와주거나 사용할 준비가 된
+
 ## 191030
 ### No, That is not the case.
 아니, 사실은 그렇지 않아.
