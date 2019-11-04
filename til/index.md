@@ -1,6 +1,10 @@
 # Today I Learned
 [상위 페이지로](../index.md)
 
+## 191104
+### All (goes) according to plan
+모든 것이 계획대로 진행되다
+
 ## 191031
 ### At your service
 Ricardio `at your service`.  
