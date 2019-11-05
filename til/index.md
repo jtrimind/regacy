@@ -1,13 +1,26 @@
 # Today I Learned
 [상위 페이지로](../index.md)
 
+## 191105
+### Feel left out
+소외감을 느끼다.  
+ex) Oh, I see. You're feeling left out and you want to roughhouse too.  
+
+### Give it another shot
+다시 시도해 보다  
+ex) Jake, I gotta give this another shot.
+
+### So be it
+그렇다면 좋다(그대로 받아들이겠다는 뜻)  
+ex) So be it, brother.  
+
 ## 191104
 ### All (goes) according to plan
 모든 것이 계획대로 진행되다
 
 ## 191031
 ### At your service
-Ricardio `at your service`.  
+ex) Ricardio at your service.  
 1. 처음 보는 다른 이에게 정중히 소개할 때 사용
 2. 도와주거나 사용할 준비가 된
 
