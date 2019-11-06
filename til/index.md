@@ -1,6 +1,11 @@
 # Today I Learned
 [상위 페이지로](../index.md)
 
+## 191106
+### Take credit for
+~의 공을 차지하다  
+ex) Don't take credit for other people's ideas.  
+
 ## 191105
 ### Feel left out
 소외감을 느끼다.  
