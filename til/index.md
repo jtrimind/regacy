@@ -1,6 +1,11 @@
 # Today I Learned
 [상위 페이지로](../index.md)
 
+## 191111
+### Someone is full of it
+거짓말쟁이다.  
+ex) You're full of it, Jake!
+
 ## 191106
 ### Take credit for
 ~의 공을 차지하다  
