@@ -1,10 +1,15 @@
 # Today I Learned
 [상위 페이지로](../index.md)
 
+## 191113
+### Keep it together
+침착함을 유지하다.  
+ex) Finn, keep it together.  
+
 ## 191111
 ### Someone is full of it
 거짓말쟁이다.  
-ex) You're full of it, Jake!
+ex) You're full of it, Jake!  
 
 ## 191106
 ### Take credit for
