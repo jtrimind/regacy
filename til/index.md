@@ -1,6 +1,11 @@
 # Today I Learned
 [상위 페이지로](../index.md)
 
+## 191115
+### Tons of
+다수의  
+ex) People do tons of things on the internet these days.
+
 ## 191113
 ### Keep it together
 침착함을 유지하다.  
