@@ -1,6 +1,11 @@
 # Today I Learned
 [상위 페이지로](../index.md)
 
+## 191119
+### Do some catching up
+밀린 이야기를 하다.
+ex) First, we ask how each other is doing and do some catching up.
+
 ## 191115
 ### Tons of
 다수의  
