@@ -1,6 +1,13 @@
 # Today I Learned
 [상위 페이지로](../index.md)
 
+## 191120
+### busy street
+번화가
+There are tons of stores in Korea.  
+There are everywhere these days.  
+Many stores are on busy streets with a lot of foot traffic.  
+
 ## 191119
 ### Do some catching up
 밀린 이야기를 하다.
