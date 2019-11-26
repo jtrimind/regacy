@@ -1,9 +1,18 @@
 # Today I Learned
 [상위 페이지로](../index.md)
 
+## 191126
+### back in the day
+예전에  
+ex)  
+Back in the day, we used to sweep the floors with a broom.  
+But now, we use vacuum cleaners to clean the floors.  
+They suck up the dust very easily. 
+
 ## 191120
 ### busy street
 번화가
+ex)  
 There are tons of stores in Korea.  
 There are everywhere these days.  
 Many stores are on busy streets with a lot of foot traffic.  
