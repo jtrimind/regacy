@@ -1,6 +1,13 @@
 # Today I Learned
 [상위 페이지로](../index.md)
 
+## 191127
+### Get a good night's sleep
+충분한 숙면을 취하다.  
+ex)  
+Getting a good night's sleep is very important.  
+Having a good mattress helps me get quality sleep.  
+
 ## 191126
 ### back in the day
 예전에  
