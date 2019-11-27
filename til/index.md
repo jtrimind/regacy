@@ -3,13 +3,13 @@
 
 ## 191127
 ### glib.h만 giochannel.h를 include할 수 있도록 하는 법
-```c
+```c++
 // glib.h
 #define __GLIB_H_INSIDE__
 #include <glib/giochannel.h>
 #undef __GLIB_H_INSIDE__
 ```
-```c
+```c++
 // giochannel.h
 #if !defined (__GLIB_H_INSIDE__)
 #error "Only <glib.h> can be included directly."
@@ -32,7 +32,7 @@ They suck up the dust very easily.
 
 ## 191120
 ### busy street
-번화가
+번화가  
 ex)  
 There are tons of stores in Korea.  
 There are everywhere these days.  
@@ -40,7 +40,7 @@ Many stores are on busy streets with a lot of foot traffic.
 
 ## 191119
 ### Do some catching up
-밀린 이야기를 하다.
+밀린 이야기를 하다.  
 ex) First, we ask how each other is doing and do some catching up.
 
 ## 191115
