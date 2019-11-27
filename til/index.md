@@ -2,6 +2,20 @@
 [상위 페이지로](../index.md)
 
 ## 191127
+### glib.h만 giochannel.h를 include할 수 있도록 하는 법
+```c
+// glib.h
+#define __GLIB_H_INSIDE__
+#include <glib/giochannel.h>
+#undef __GLIB_H_INSIDE__
+```
+```c
+// giochannel.h
+#if !defined (__GLIB_H_INSIDE__)
+#error "Only <glib.h> can be included directly."
+#endif
+```
+
 ### Get a good night's sleep
 충분한 숙면을 취하다.  
 ex)  
