@@ -1,6 +1,14 @@
 # Today I Learned
 [상위 페이지로](../index.md)
 
+## 191213
+### Grab a bite
+간단히 먹다.  
+ex)  
+I mostly go to coffee shops to hang out with my friends or coworkers.  
+I sometimes get coffee to go or sometimes drink it on the spot.  
+I sometimes grab a bite when I am hungry.  
+
 ## 191127
 ### glib.h만 giochannel.h를 include할 수 있도록 하는 법
 ```c++
