@@ -52,6 +52,7 @@ message SearchRequest {
 
 #### 더 많은 메시지 타입
 - 하나의 `.proto` 파일은 여러개의 메시지 타입이 정의될 수 있음
+
 ```
 message SearchRequest {
   string query = 1;
@@ -66,7 +67,8 @@ message SearchResponse {
 
 #### 주석 추가
 - C/C++ 스타일 주석 사용 가능
-```
+
+```c++
 /* SearchRequest represents a search query, with pagination options to
  * indicate which results to include in the response. */
 
@@ -81,6 +83,7 @@ message SearchRequest {
 - 메시지를 업데이트해서 필드를 삭제 -> 나중에 그 필드 번호를 이용한 필드 추가 -> 옛날 버전 쓰던 사람은 버그남
 - 필드 번호와 필드 이름을 `reserved` 처리할 수 있음
 - 필드 번호랑 이름을 섞어서 한줄에 `reserved` 할 수는 없음
+
 ```
 message Foo {
   reserved 2, 15, 9 to 11;
@@ -92,6 +95,7 @@ message Foo {
 - C++은 `.pb.h`와 `.pb.cc`가 만들어짐
 
 ### Scalar Value Types
+
 | .proto Type | C++ Type | Notes                                             |
 |-------------|----------|---------------------------------------------------|
 | double      | double   |                                                   |
