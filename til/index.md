@@ -1,6 +1,15 @@
 # Today I Learned
 [상위 페이지로](../index.md)
 
+## 191218
+### Drink in moderation
+술을 적당히 마시다.  
+ex)  
+One of the biggest concerns is overdrinking when it comes to gatherings.  
+People often drink to much and get drunk.  
+When they get drunk, they can make mistakes.  
+People should always drink in moderation at gatherings.  
+
 ## 191213
 ### Grab a bite
 간단히 먹다.  
