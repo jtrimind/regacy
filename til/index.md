@@ -1,6 +1,12 @@
 # Today I Learned
 [상위 페이지로](../index.md)
 
+## 191219
+### Go well with
+~와 잘 어울린다.  
+ex)  
+We order beer. It went well with the food.  
+
 ## 191218
 ### Drink in moderation
 술을 적당히 마시다.  
