@@ -2,6 +2,9 @@
 [상위 페이지로](../index.md)
 
 ## 200113
+### The early bird cathes the worm
+일찍 일어나는 새가 벌레를 잡는다.
+
 ### ModuleNotFoundError: No module named 'tensorflow.examples.tutorials'
 [텐서플로우 깃허브](https://github.com/tensorflow/tensorflow)를 받아서 `tensorflow/example/tutorials` 폴더를 `anaconda3/lib/python3.7/site-packages/tensorflow_core`로 복사한다.  
 `python -m site` 명령어로 site-packge 위치를 알 수 있다.
