@@ -1,6 +1,14 @@
 # Today I Learned
 [상위 페이지로](../index.md)
 
+## 200114
+### nerve-racking
+안절부절못하게 하는  
+ex) It was very nerve-racking.
+
+### git fetch --prune
+remote 저장소에서 지워진 브랜치를 로컬에 반영한다
+
 ## 200113
 ### The early bird cathes the worm
 일찍 일어나는 새가 벌레를 잡는다.
