@@ -1,6 +1,11 @@
 # Today I Learned
 [상위 페이지로](../index.md)
 
+## 200116
+### have a lot on one's plate
+해야 할 일이 산더미처럼 있다.  
+ex) Now I have a lot on my plate. So please don't bother me.  
+
 ## 200114
 ### nerve-racking
 안절부절못하게 하는  
