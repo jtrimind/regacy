@@ -1,6 +1,10 @@
 # Today I Learned
 [상위 페이지로](../index.md)
 
+## 200117
+### The screen is cracked and black.
+화면이 깨지고 켜지지 않는다.
+
 ## 200116
 ### have a lot on one's plate
 해야 할 일이 산더미처럼 있다.  
