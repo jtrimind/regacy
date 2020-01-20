@@ -1,6 +1,11 @@
 # Today I Learned
 [상위 페이지로](../index.md)
 
+## 200120
+### Break the ice
+(특히 회의, 파티 등을 시작할 때) 서먹서먹한 분위기를 깨다
+ex) Drinks break the ice and spice up the mood.
+
 ## 200117
 ### The screen is cracked and black.
 화면이 깨지고 켜지지 않는다.
