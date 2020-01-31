@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="169px" preserveAspectRatio="none" style="width:188px;height:169px;" version="1.1" viewBox="0 0 188 169" width="188px" zoomAndPan="magnify"><defs><filter height="300%" id="f1iy84gy2oqrd8" width="300%" x="-1" y="-1"><feGaussianBlur result="blurOut" stdDeviation="2.0"/><feColorMatrix in="blurOut" result="blurOut2" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/><feOffset dx="4.0" dy="4.0" in="blurOut2" result="blurOut3"/><feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/></filter></defs><g><!--entity antelope.h--><polygon fill="#FEFECE" filter="url(#f1iy84gy2oqrd8)" points="34.5,8,34.5,44.2969,128.5,44.2969,128.5,18,118.5,8,34.5,8" style="stroke: #000000; stroke-width: 1.5;"/><path d="M118.5,8 L118.5,18 L128.5,18 " fill="#FEFECE" style="stroke: #000000; stroke-width: 1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="74" x="44.5" y="30.9951">antelope.h</text><!--entity aql.h--><polygon fill="#FEFECE" filter="url(#f1iy84gy2oqrd8)" points="6,121,6,157.2969,59,157.2969,59,131,49,121,6,121" style="stroke: #000000; stroke-width: 1.5;"/><path d="M49,121 L49,131 L59,131 " fill="#FEFECE" style="stroke: #000000; stroke-width: 1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="33" x="16" y="143.9951">aql.h</text><!--entity result.h--><polygon fill="#FEFECE" filter="url(#f1iy84gy2oqrd8)" points="94.5,121,94.5,157.2969,166.5,157.2969,166.5,131,156.5,121,94.5,121" style="stroke: #000000; stroke-width: 1.5;"/><path d="M156.5,121 L156.5,131 L166.5,131 " fill="#FEFECE" style="stroke: #000000; stroke-width: 1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="52" x="104.5" y="143.9951">result.h</text><!--link antelope.h to aql.h--><path d="M61.4438,44.2628 C53.6101,52.5524 45.3572,62.9663 40.5,74 C34.7681,87.0208 32.7282,102.8414 32.1405,115.6144 " fill="none" id="antelope.h-&gt;aql.h" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="31.9711,120.8849,36.2583,112.0181,32.1318,115.8875,28.2625,111.761,31.9711,120.8849" style="stroke: #A80036; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="45" x="41.5" y="87.0669">include</text><!--link antelope.h to result.h--><path d="M89.3727,44.1554 C97.8737,63.7598 111.4316,95.0258 120.637,116.2547 " fill="none" id="antelope.h-&gt;result.h" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="122.6468,120.8897,122.7359,111.0412,120.6575,116.3025,115.3963,114.2241,122.6468,120.8897" style="stroke: #A80036; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="45" x="109.5" y="87.0669">include</text><!--
+@startuml
+file antelope.h
+file aql.h
+file result.h
+
+antelope.h -down-> aql.h : include
+antelope.h -down-> result.h : include
+@enduml
+
+PlantUML version 1.2019.09(Tue Aug 27 01:19:51 KST 2019)
+(GPL source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) 64-Bit Server VM
+Java Version: 1.8.0_201-b09
+Operating System: Linux
+OS Version: 4.15.0-74-generic
+Default Encoding: UTF-8
+Language: en
+Country: US
+--></g></svg>
