@@ -1,0 +1,13 @@
+@startuml dip_before
+hide members
+hide circle
+
+package PackageA {
+	class ObjectA
+}
+package PackageB {
+	class ObjectB
+}
+
+ObjectA -> ObjectB
+@enduml

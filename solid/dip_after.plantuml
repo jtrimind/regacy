@@ -1,0 +1,16 @@
+@startuml dip_after
+
+hide members
+hide circle
+
+package PackageA {
+	class ObjectA
+	interface InterfaceA
+}
+package PackageB {
+	class ObjectB
+}
+
+ObjectA -down-> InterfaceA
+InterfaceA <|- ObjectB
+@enduml
