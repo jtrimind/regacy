@@ -14,7 +14,7 @@
 |            |                                         | [Flyweight](flyweight.md)     | [Observer](observer.md)                              |
 |            |                                         | [Proxy](proxy.md)             | [State](state.md)                                    |
 |            |                                         |                               | [Strategy](strategy.md)                              |
-|            |                                         |                               | [Visitor](visitor.md)                                |
+|            |                                         |                               | [Visitor](visitor/visitor.md)                                |
 
 ## Creational patterns
 - [Abstract Factory](abstract_factory.md) : 클라이언트에서 구상 클래스를 지정하지 않으면서도 일군의 객체를 생성
@@ -43,7 +43,7 @@
 - [State](state.md) : 상태를 기반으로 한 행동을 캡슐화한 다음 위임을 통해서 필요한 행동을 선택
 - [Strategy](strategy.md) : 교환 가능한 행동을 캡슐화한 다음 위임을 통해서 필요한 행동을 선택
 - [Template Method](template_method.md) : 알고리즘의 개별 단계를 구현하는 방법을 서브클래스에서 결정
-- [Visitor](visitor.md) : 클래스의 변경없이 새로운 오퍼레이션을 정의
+- [Visitor](visitor/visitor.md) : 클래스의 변경없이 새로운 오퍼레이션을 정의
 
 ## Reference
 - [SourceMaking](https://sourcemaking.com/design_patterns)

@@ -1,0 +1,33 @@
+@startuml visitor_class
+
+interface Element
+{
+	accept(Visitor)
+}
+
+interface Visitor
+{
+	visit(ElementA)
+	visit(ElementB)
+}
+
+class ElementA
+{
+}
+
+class ElementB
+{
+}
+
+class VisitorA
+{
+}
+
+Element <|-down- ElementA
+Element <|-down- ElementB
+note bottom of ElementA : ElementA::accept(Visitor v)\n{\n\tv.visit(this);\n}
+note bottom of ElementB : ElementB::accept(Visitor v)\n{\n\tv.visit(this);\n}
+
+Visitor <|-down- VisitorA
+Visitor <|-down- VisitorB
+@enduml

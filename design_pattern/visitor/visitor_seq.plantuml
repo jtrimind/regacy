@@ -1,0 +1,25 @@
+@startuml visitor_seq
+
+participant Client order 1
+participant ElementA order 2
+participant ElementB order 3
+participant VisitorA order 4
+participant VisitorB order 5
+
+Client -> ElementA : accept(VisitorA)
+ElementA -> VisitorA : visit(this)
+VisitorA -> ElementA : /* Do something */
+
+Client -> ElementA : accept(VisitorB)
+ElementA -> VisitorB : visit(this)
+VisitorB -> ElementA : /* Do something */
+
+Client -> ElementB : accept(VisitorA)
+ElementB -> VisitorA : visit(this)
+VisitorA -> ElementB : /* Do something */
+
+Client -> ElementB : accept(VisitorB)
+ElementB -> VisitorB : visit(this)
+VisitorB -> ElementB : /* Do something */
+
+@enduml
