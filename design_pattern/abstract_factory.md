@@ -44,9 +44,9 @@ class Person
   public:
 	void draw()
 	{
-		Shape *face = new LinuxCircle;
+		Shape *face = new LinuxCircle();
 		face->draw();
-        Shape *eyes[] = {new LinuxCircle, new LinuxCircle};
+        Shape *eyes[] = {new LinuxCircle(), new LinuxCircle()};
         eyes[0]->draw();
         eyes[1]->draw();
 	}
@@ -155,13 +155,13 @@ class CircleFactoryMethod
 class LinuxCircleFactoryMethod : public CircleFactoryMethod
 {
   public:
-	Shape *create_circle() { return new LinuxCircle; }
+	Shape *create_circle() { return new LinuxCircle(); }
 };
 
 class WindowsCircleFactoryMethod : public CircleFactoryMethod
 {
   public:
-	Shape *create_circle() { return new WindowsCircle; }
+	Shape *create_circle() { return new WindowsCircle(); }
 };
 
 class Person
@@ -187,9 +187,9 @@ int main()
 {
 	CircleFactoryMethod *circleFactoryMethod;
 #ifdef LINUX
-	CircleFactoryMethod *circleFactoryMethod = new LinuxCircleFactoryMethod;
+	circleFactoryMethod = new LinuxCircleFactoryMethod();
 #else
-	CircleFactoryMethod *circleFactoryMethod = new WindowsCircleFactoryMethod;
+	circleFactoryMethod = new WindowsCircleFactoryMethod();
 #endif
 	Person *c = new Person(circleFactoryMethod);
 	c->draw();
@@ -246,13 +246,13 @@ class CircleFactoryMethod
 class LinuxCircleFactoryMethod : public CircleFactoryMethod
 {
   public:
-	Shape *create_circle() { return new LinuxCircle; }
+	Shape *create_circle() { return new LinuxCircle(); }
 };
 
 class WindowsCircleFactoryMethod : public CircleFactoryMethod
 {
   public:
-	Shape *create_circle() { return new WindowsCircle; }
+	Shape *create_circle() { return new WindowsCircle(); }
 };
 
 class TriangleFactoryMethod
@@ -264,13 +264,13 @@ class TriangleFactoryMethod
 class LinuxTriangleFactoryMethod : public TriangleFactoryMethod
 {
   public:
-	Shape *create_triangle() { return new LinuxTriangle; }
+	Shape *create_triangle() { return new LinuxTriangle(); }
 };
 
 class WindowsTriangleFactoryMethod : public TriangleFactoryMethod
 {
   public:
-	Shape *create_triangle() { return new WindowsTriangle; }
+	Shape *create_triangle() { return new WindowsTriangle(); }
 };
 
 class Person
@@ -301,11 +301,11 @@ int main()
 	CircleFactoryMethod *circleFactoryMethod;
     TriangleFactoryMethod *triangleFactoryMethod;
 #ifdef LINUX
-	CircleFactoryMethod *circleFactoryMethod = new LinuxCircleFactoryMethod;
-	TriangleFactoryMethod *triangleFactoryMethod = new LinuxTriangleFactoryMethod;
+	circleFactoryMethod = new LinuxCircleFactoryMethod();
+	triangleFactoryMethod = new LinuxTriangleFactoryMethod();
 #else
-	CircleFactoryMethod *circleFactoryMethod = new WindowsCircleFactoryMethod;
-	TriangleFactoryMethod *triangleFactoryMethod = new WindowsTriangleFactoryMethod;
+	circleFactoryMethod = new WindowsCircleFactoryMethod();
+	triangleFactoryMethod = new WindowsTriangleFactoryMethod();
 #endif
 	Person *c = new Person(circleFactoryMethod, triangleFactoryMethod);
 	c->draw();
@@ -364,15 +364,15 @@ class AbstractFactory
 class LinuxAbstractFactory : public AbstractFactory
 {
   public:
-	Shape *create_circle() { return new LinuxCircle; }
-	Shape *create_triangle() { return new LinuxTriangle; }
+	Shape *create_circle() { return new LinuxCircle(); }
+	Shape *create_triangle() { return new LinuxTriangle(); }
 };
 
 class WindowsAbstractFactory : public AbstractFactory
 {
   public:
-	Shape *create_circle() { return new WindowsCircle; }
-	Shape *create_triangle() { return new WindowsTriangle; }
+	Shape *create_circle() { return new WindowsCircle(); }
+	Shape *create_triangle() { return new WindowsTriangle(); }
 };
 
 class Person
@@ -400,9 +400,9 @@ int main()
 {
 	AbstractFactory *factory;
 #ifdef LINUX
-	AbstractFactory *factory = new LinuxAbstractFactory;
+	factory = new LinuxAbstractFactory();
 #else
-	AbstractFactory *factory = new WindowsAbstractFactory;
+	factory = new WindowsAbstractFactory();
 #endif
 	Person *c = new Person(factory);
 	c->draw();
